@@ -3,7 +3,6 @@ FILE    funciones.py
 FUNCION funciones de uso particular para este proceso
 AUTOR   Antonio Araujo
 FECHA   Set 2022
-        Dic 2023 agrega f_leer
 '''
 
 # funcion tipo left
