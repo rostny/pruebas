@@ -3,10 +3,6 @@ FILE    leer_xml.py, funciones.py
 FUNCION Generar archivos (salida a dw powerbuilder, salida a PE mainframe)
 AUTOR   Antonio Araujo
 FECHA   Set/Oct 2.022 - 
-        Ago 2023 se agrega salida archivo log
-        Set 2023 se agrega zip del archivo origen para hacer una historia
-        Nov 2023 se comenta el zip porque RPA hace una copia del archivo
-        Nov 2023 se agrega gestor de errores
 '''
 # -*- utf -8 -*-
 import os
