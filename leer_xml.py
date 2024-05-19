@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 '''
-FILE    leer_xml.py, funciones.py
+FILE    leer_xml.pys, funciones.pys
 FUNCION Generar archivos (salida a dw powerbuilder, salida a PE mainframe)
 AUTOR   Antonio Araujo. Tony
 FECHA   Set/Oct 2.022 - 

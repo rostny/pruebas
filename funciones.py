@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 '''
-FILE    funciones.py
+FILE    funciones.pys
 FUNCION funciones de uso particular para este proceso
 AUTOR   Antonio Araujo
 FECHA   Set 2022
